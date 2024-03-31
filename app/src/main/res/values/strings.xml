@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ClassExercise2</string>
+    <string name="hello">Hello Android</string>
+    <string name="button2">Exit Application</string>
+    <string name="button">"Start ! "</string>
+    <string name="name">Enter your First and Last name</string>
+    <string name="email">Write EmailAdress</string>
+    <string name="ACME_Corp_Caption">login</string>
+    <string name="button_ok">OK</string>
+    <string name="button_back">Back</string>
+    <string name="button_login">login</string>
+    <string name="Cream">Cream</string>
+    <string name="coffee_addons">What else in your coffee?</string>
+    <string name="sugar">Sugar</string>
+    <string name="pay">Pay</string>
+    <string name="button3">CheckBox</string>
+    <string name="coffee_type">What Kind of coffee?</string>
+    <string name="decaf">Decaf</string>
+    <string name="expresso">Expresso</string>
+    <string name="colombin">Colombin</string>
+    <string name="file">File</string>
+    <string name="refresh">새로고침</string>
+    <string name="search">검색</string>
+    <string name="settings">설정</string>
+    <string name="Menu">Main Fragement</string>
+    <string name="Return">RETURN TO MENU</string>
+    <string name="fragment">fragement</string>
+    <string name="fragment1">This is fragment #1</string>
+    <string name="fragment2">This is fragment #2</string>
+    <string name="Getfragement1">Get text in Fragment #1</string>
+    <string name="button4">Web View</string>
+    <string name="button5">List View</string>
+</resources>
